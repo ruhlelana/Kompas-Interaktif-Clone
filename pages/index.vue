@@ -1,11 +1,27 @@
 <template>
 <div>
-    <full-page ref="fullpage" :options="options" id="fullpage">
-    <div class="section pemilu">
-      First section ...
+  <full-page ref="fullpage" :options="options" id="fullpage">
+    <div class="section hero is-danger pemilu">
+      <h1 class="title is-fullheight is-uppercase has-text-weight-bold">
+				Pemilu Serentak 2019
+      </h1>
+		  <h2 class="subtitle is-uppercase">
+				Sejarah Baru Pesta Demokrasi
+      </h2>
+      <h3 class="subtitle is-uppercase">
+        lihat
+      </h3>
     </div>
-    <div class="section energi">
-      Second section ...
+    <div class="section hero is-danger energi">
+      <h1 class="title is-fullheight is-uppercase has-text-weight-bold">
+        Mewujudkan energi berkeadilan
+      </h1>
+			<h2 class="subtitle is-uppercase">
+        di bumi pertiwi
+      </h2>
+      <h3 class="subtitle is-uppercase">
+        lihat
+      </h3>
     </div>
   </full-page>
 </div>
