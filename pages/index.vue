@@ -2,10 +2,10 @@
 <div>
   <full-page ref="fullpage" id="fullpage">
   <div class="section">
-    First section ...
+    Halaman Satu
   </div>
   <div class="section">
-    Second section ...
+    Halaman Dua
   </div>
 </full-page>
 </div>
